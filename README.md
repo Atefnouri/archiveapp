@@ -1,4 +1,4 @@
-Laravel v9.6.0 (PHP v8.0.6)
+
 
 # React Archive Mangement App 
 
@@ -16,9 +16,9 @@ To deploy this project BE on dev enviorment after installing composer
 
 ## Tech Stack
 
-**Client:** React 
+**Frontend:** React 
 
-**Server:** Laravel 9.60
+**Backend:** Laravel 9.60
 
 **DataBase:** MySQL
 
